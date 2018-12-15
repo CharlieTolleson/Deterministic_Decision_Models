@@ -10,3 +10,4 @@ This Jupyter Notebook contains implementations and examples of the models taught
 4. Negative Cost Cycles
 5. Flow Augmentation
 6. Negative Cost Cycle Cancelling
+7. Simplex
